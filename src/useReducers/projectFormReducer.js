@@ -41,9 +41,7 @@ const projectFormReducer = (state, action) => {
                 paid: [action.value][0]
             }
         default:
-            return {
-                state
-            }
+            return state
     }
 }
 
