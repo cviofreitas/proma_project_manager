@@ -1,3 +1,7 @@
+# Proma Project Manager
+
+Proma is a small React application for managing clients, projects, and invoices. You can track customer details, create new invoices, and monitor payments right from the dashboard. The project uses Redux for state management, React Router for page navigation, and Material UI for styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
